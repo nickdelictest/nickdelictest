@@ -1,9 +1,13 @@
 # Forum | NickDelic (Seminarska naloga)
 
 <h4>Opis</h4>
+
 # Naredil sem spletno stran, oziroma forum z modernim UI-jem, s pomocjo PHP-ja, MySql databaze in Vanilla JavaScripta.
+
 # Ce hoce uporabnik pisati v naso MySql databazo mora biti najprej prijavljen z GitHub racunom.
+
 # Uporabnik ima na voljo 3 threade ki lahko v njih objavlja "objave" ki so bazirane na plain textu.
+
 # Objave lahko lajkamo ali komentiramo.
 
 <h4>Kako uporabiti spletno stran?</h4>
